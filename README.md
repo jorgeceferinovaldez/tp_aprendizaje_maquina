@@ -19,22 +19,16 @@
 
     Hemos seleccionado el dataset de clasificación estelar.
 
-# 2. Análisis exploratorio de datos (EDA)
+## Criterios de aprobación
 
-* Visualizar las primeras filas. 
-* Realizar un resumen de 5 números. 
-* Identificar los tipos de datos: categórico, ordinal, etc. Responder para cada variable su tipo y si 
-es informativa para un problema de clasificación (por ejemplo si se trata de un código, como 
-una matrícula, o un nombre propio). 
-* Identificar las variables de entrada y de salida del problema. 
-* Variables de entrada: 
-    - Realizar los siguientes análisis por tipo de variable: 
-        - Numéricas: Obtener conclusiones acerca de la distribución de los datos. 
-        - Categóricas: Obtener conclusiones acerca de la cardinalidad, representación de cada 
-categoría, etc. 
-        - Compuestas: ¿Pueden tratarse para utilizarse en el problema a resolver? 
-* Variables de salida (en caso de aplicar): 
-    - ¿Están balanceadas las clases? 
-    - (en caso de aplicar) ¿Qué técnicas consideraría para codificar la variable de salida? Justifique.
+Los criterios de aprobación son los siguientes:
 
+1. Cada TP debe citar la fuente de información de evaluación, es decir, citar de donde se obtuvieron los datos.
+2. Deberá ser entregado en formato de notebook de ipython (formato ipynb).
+3. Contendrá la propuesta de investigación en los datos, citando el porqué de la evaluación y que se pretende encontrar o descubrir con dicha investigación
+4. Deberá explicar el porqué de la elección del algoritmo empleado para la resolución del problema y cómo llegó a esa elección por sobre otras opciones
+5. Deberá expresar de manera clara el resultado de la investigación aportando las métricas necesarias para comprender cómo se desempeña el algoritmo elegido.
+6. En su cierre debe dar una reflexión de su investigación y proponer nuevos caminos de resolución en el caso que sea necesario.
+7. Como última fecha de entrega del trabajo, estará limitado a 7 días posteriores a la última clase.
+8. La entrega es por correo electrónico, ya sea el envío de la notebook o el link a repositorio (de GitHub o GitLab) con el trabajo. 
 

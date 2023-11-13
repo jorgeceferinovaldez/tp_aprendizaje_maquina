@@ -1,0 +1,61 @@
+/* Estilo general del cuerpo del documento */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Estilo para el título principal */
+h1 {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-bottom: 20px;
+}
+
+/* Estilo para los subtítulos */
+h2 {
+    color: #444;
+    padding-left: 20px;
+}
+
+/* Estilo para las listas */
+ul {
+    padding-left: 40px;
+    line-height: 1.6;
+}
+
+/* Estilo para los elementos de la lista */
+ul li {
+    margin-bottom: 5px;
+}
+
+/* Estilo para el pie de página */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Estilo para los enlaces */
+a {
+    color: #55aaff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+p{
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+    line-height: 1.6;
+}

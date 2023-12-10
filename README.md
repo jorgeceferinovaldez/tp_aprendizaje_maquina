@@ -32,3 +32,11 @@ Los criterios de aprobación son los siguientes:
 7. Como última fecha de entrega del trabajo, estará limitado a 7 días posteriores a la última clase.
 8. La entrega es por correo electrónico, ya sea el envío de la notebook o el link a repositorio (de GitHub o GitLab) con el trabajo. 
 
+# Instalación
+
+Luego de clonar el repositorio ejecutar desde el dirtectorio raiz:
+
+$ make setup
+
+
+

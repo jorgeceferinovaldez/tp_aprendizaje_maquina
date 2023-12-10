@@ -36,7 +36,11 @@ Los criterios de aprobación son los siguientes:
 
 Luego de clonar el repositorio ejecutar desde el dirtectorio raiz:
 
-$ make setup
+$ make install
+
+# Desintalación del ambiente venv
+
+$ make clean
 
 
 

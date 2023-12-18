@@ -38,7 +38,7 @@ Luego de clonar el repositorio ejecutar desde el dirtectorio raiz:
 
 $ make install
 
-# Desintalación del ambiente venv
+# Desinstalación del ambiente venv
 
 $ make clean
 
